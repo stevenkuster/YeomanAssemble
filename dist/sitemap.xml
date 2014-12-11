@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/stevenkuster/assemble/dist/blog.html</loc>
-    <lastmod>2014-12-11T10:19:16.795Z</lastmod>
+    <lastmod>2014-12-11T10:26:14.703Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/stevenkuster/assemble/dist/index.html</loc>
-    <lastmod>2014-12-11T10:19:16.795Z</lastmod>
+    <lastmod>2014-12-11T10:26:14.704Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
