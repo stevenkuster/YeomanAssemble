@@ -1,0 +1,11 @@
+---
+title: Blog
+posts: ['README.md']
+layout: src/templates/layouts/blog.hbs
+---
+<h1>Posts</h1>
+{{#each posts}}
+  {{md this}}
+{{/each}}
+
+<img src="assets/images/image.jpg">
